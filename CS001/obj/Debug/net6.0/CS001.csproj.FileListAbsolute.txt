@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\СS\CS001\bin\Debug\net6.0\CS001.exe
+C:\Users\HP\Desktop\СS\CS001\bin\Debug\net6.0\CS001.deps.json
+C:\Users\HP\Desktop\СS\CS001\bin\Debug\net6.0\CS001.runtimeconfig.json
+C:\Users\HP\Desktop\СS\CS001\bin\Debug\net6.0\CS001.dll
+C:\Users\HP\Desktop\СS\CS001\bin\Debug\net6.0\CS001.pdb
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.AssemblyInfo.cs
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.dll
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\refint\CS001.dll
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.pdb
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\CS001.genruntimeconfig.cache
+C:\Users\HP\Desktop\СS\CS001\obj\Debug\net6.0\ref\CS001.dll
